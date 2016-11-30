@@ -24,7 +24,7 @@ import static com.example.anya.broadcastreceiverdemo.MainActivity.downloadFinish
 public class LoadService extends Service {
 
     private boolean loadingStarted = false;
-    private final String link = "https://wallpaperscraft.ru/image/volk_tigr_risunok_belyy_krasnyy_170_1920x1200.jpg";
+    private final String link = "https://wallpaperscraft.ru/image/babochka_abstraktsiya_krasochnyj_uzory_97225_1920x1200.jpg";
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {

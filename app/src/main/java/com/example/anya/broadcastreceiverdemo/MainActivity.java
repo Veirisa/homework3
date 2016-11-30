@@ -18,7 +18,7 @@ import java.io.File;
 public class MainActivity extends AppCompatActivity {
 
     public static final String downloadFinished = "Download finished";
-    public static final String imageName = "animals.jpg";
+    public static final String imageName = "buterfly.jpg";
     private File saveImage;
     private TextView error;
     private ImageView image;
